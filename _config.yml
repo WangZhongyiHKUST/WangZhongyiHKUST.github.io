@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhongyi Wang 王仲逸"
+  name             : "Zhongyi Wang"
   avatar           : "profile.png"
-  bio              : "Machine Learning;\n GPU architectures;\n High-performace Computing"
+  bio              : ""
   location         : "China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "wzyinvoker@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "https://github.com/WangZhongyiHKUST"
   google_plus      :
   keybase          :
   instagram        :
