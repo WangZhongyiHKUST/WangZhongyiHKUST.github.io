@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhongyi Wang 王仲逸"
   avatar           : "profile.png"
-  bio              : "Machine Learning;<br />GPU architectures;<br />High-performace Computing"
+  bio              : "Machine Learning;\n GPU architectures;\n High-performace Computing"
   location         : "China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
