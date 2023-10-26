@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhongyi Wang"
   avatar           : "profile.png"
-  bio              : " "
+  bio              : # ""
   location         : "China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
