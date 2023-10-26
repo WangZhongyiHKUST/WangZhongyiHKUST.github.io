@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "&emsp; &emsp; &emsp;"
+title                    : &emsp; &emsp; &emsp;
 title_separator          : "-"
 name                     : &name "Zhongyi Wang"
 description              : &description "personal description"
