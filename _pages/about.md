@@ -1,4 +1,4 @@
-![image](https://github.com/WangZhongyiHKUST/WangZhongyiHKUST.github.io/assets/55056040/2118dd93-6bf4-42ec-a082-bd8f549e54d6)---
+---
 permalink: /
 title: "Biography"
 excerpt: "About me"
