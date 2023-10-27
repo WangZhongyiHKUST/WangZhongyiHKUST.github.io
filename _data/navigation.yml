@@ -1,19 +1,20 @@
 # main links links
 main:
-  - title: "CV"
-    url: /publications/
+  - title: "  "
+    url: /year-archive/
 
-  - title: "Projects"
+  - title: "  "
     url: /talks/    
 
-  - title: # "Teaching"
-    url: /teaching/    
+  - title: "CV"
+    url: /teaching/
     
-  - title: # "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
-  - title: # "Blog Posts"
-    url: /year-archive/
+  - title: "Publications"
+    url: /publications/
+    
     
   - title: # "CV"
     url: /cv/
