@@ -1,10 +1,10 @@
 # main links links
 main:
-  # - title: ""
-  #   url: /year-archive/
+  - title: ""
+    url: 
 
-  # - title: ""
-  #   url: /talks/    
+  - title: ""
+    url:    
 
   - title: "CV"
     url: "./_pages/CV.pdf" # /cv/
