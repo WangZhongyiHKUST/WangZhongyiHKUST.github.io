@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 1. Design of laboratory management system based on Wi-Fi sniffing technology
+[**PDF**]
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2. Online CNC Tool Failure Detection Based on DTW and DBA Algorithm
+[**PDF**]
