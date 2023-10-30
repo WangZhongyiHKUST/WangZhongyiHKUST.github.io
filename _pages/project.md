@@ -7,8 +7,7 @@ classes: wide
 ---
 
 # BLE(Bluetooth Indoor Positioning)
-## Overview  
-- 
+Reports and demos available at: https://github.com/WangZhongyiHKUST/Independent-project.git
 
 
 
