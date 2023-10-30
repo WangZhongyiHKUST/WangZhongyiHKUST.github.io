@@ -83,8 +83,8 @@ author:
   name             : "Zhongyi Wang"
   avatar           : "profile.png"
   bio              : 
-                      string: "Data Mining Engineer"
-                      string: "M.S. in Information Technology"
+                      -"Data Mining Engineer"
+                      -"M.S. in Information Technology"
   location         : "China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
