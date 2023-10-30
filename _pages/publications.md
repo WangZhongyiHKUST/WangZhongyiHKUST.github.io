@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 1. Design of laboratory management system based on Wi-Fi sniffing technology
-[**PDF**]
+[**PDF**](./_page/publication1.pdf)
 
 ## 2. Online CNC Tool Failure Detection Based on DTW and DBA Algorithm
-[**PDF**]
+[**PDF**](./_page/publication2.pdf)
